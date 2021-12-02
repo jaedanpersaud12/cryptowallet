@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@400;500;700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+}
+body {
+  font-family: "Hind", sans-serif;
+  margin: 50px 128px;
+}
+
+h1{
+    text-align: center;
+}
+
+ul{
+    width: 100%;
+    margin-top: 20px;
+    text-align: center;
+}
+ul li{
+    display: inline;
+
+    
+}
+
+li{
+    padding: 9px;
+}
