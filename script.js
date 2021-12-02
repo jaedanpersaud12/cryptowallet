@@ -2,6 +2,6 @@ const wordArray = ['wood', 'combination', 'wealth', 'preparation', 'tooth', 'emp
 var words = document.getElementsByClassName('walletpass');
 var random;
 for(var i = 0; i < words.length; i++){
-    random = Math.floor(Math.random() * 24)
+    random = Math.floor(Math.random() * 25)
     words[i].textContent = wordArray[random];
 }
