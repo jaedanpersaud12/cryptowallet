@@ -2,7 +2,7 @@ const wordArray = ['wood', 'combination', 'wealth', 'preparation', 'tooth', 'emp
 
 console.log(wordArray.length)
 
-/*var words = document.getElementsByClassName('walletpass');
+var words = document.getElementsByClassName('walletpass');
 var random;
 var numberArray = [];
 for (var i = 0; i < words.length; i++) {
@@ -14,4 +14,4 @@ for (var i = 0; i < words.length; i++) {
   numberArray.push(random); //adds random number to array
 
   words[i].textContent = wordArray[random];
-}*/
+}
